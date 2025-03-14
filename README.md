@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Ryan], a developer originally from Shanghai, now living in Bellevue, Washington, and currently studying Computer Science at the University of Washington.  🚀
+I'm [Ryan], 
 
 ## 🔧 Technologies & Tools
 - Languages: Python, C++, Java
