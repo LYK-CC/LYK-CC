@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Ryan], 
+I'm Ryan, 
 
 ## 🔧 Technologies & Tools
 - Languages: Python, C++, Java
