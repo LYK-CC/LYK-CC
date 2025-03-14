@@ -8,8 +8,8 @@ I'm [Ryan], a developer originally from Shanghai, now living in Bellevue, Washin
 - Tools: Git, Matplotlib, Scipt, Numpy, VS Code
 
 ## 📫 Get in Touch
-- **Website:** [yourwebsite.com](https://LYK_CC.github.io)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ryan-meng-1120b6253/)
+- **Website:** [My page](https://LYK_CC.github.io)
+- **LinkedIn:** [Ryan Meng](https://www.linkedin.com/in/ryan-meng-1120b6253/)
 - **Email:**  ryanm.academic@gmail.com
 
 ## 🌱 Currently Learning
