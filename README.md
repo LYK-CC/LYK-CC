@@ -8,7 +8,7 @@ I'm Ryan
 - Tools: Git, Matplotlib, Scipt, Numpy, VS Code
 
 ## 📫 Get in Touch
-- **Website:** [My page](https://LYK_CC.github.io)
+- **Website:** [My page](https://lykcc.com)
 - **LinkedIn:** [Ryan Meng](https://www.linkedin.com/in/ryan-meng-1120b6253/)
 - **Email:**  ryanm.academic@gmail.com
 
