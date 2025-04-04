@@ -1,6 +1,15 @@
 # Hi there! 👋
 
-I'm Ryan
+I'm a student at the University of Washington's Paul G. Allen School of Computer Science & Engineering, passionate about bridging theory and real-world application.
+
+I enjoy applying mathematical modeling, data science, and computer science to solve practical challenges.
+
+🔍 I'm currently looking for:
+- 💼 **Internship opportunities**
+- 🤝 **Research collaborations**
+- 🔧 **Open-source or applied projects** where I can contribute my technical and analytical skills
+
+If you're working on something interesting or looking for a collaborator, feel free to connect with me!
 
 ## 🔧 Technologies & Tools
 - Languages: Python, C++, Java
