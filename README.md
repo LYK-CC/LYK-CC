@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a student at the UC Berkeley, passionate about bridging theory and real-world application.
+I'm an Applied Math student at UC Berkeley, passionate about bridging theory and real-world application.
 
 I enjoy applying mathematical modeling, data science, and computer science to solve practical challenges.
 
