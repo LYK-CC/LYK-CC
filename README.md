@@ -2,7 +2,7 @@
 
 I'm an Applied Math student at UC Berkeley, passionate about bridging theory and real-world application.
 
-I enjoy applying mathematical modeling, data science, and computer science to solve practical challenges.
+I enjoy applying math concepts, data science, and algorithms into solving reallife practical challenges.
 
 🔍 I'm currently looking for:
 - 💼 **Internship opportunities**
