@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm an Applied Math student at UC Berkeley, passionate about bridging theory and real-world application.
+I'm an Computer Science student at University of Washington Paul G. Allen School of Computer Science and Engineering, passionate about bridging theory and real-world application.
 
 I enjoy applying math concepts, data science, and algorithms into solving reallife practical challenges.
 
