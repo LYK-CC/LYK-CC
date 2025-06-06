@@ -19,7 +19,7 @@ If you're working on something interesting or looking for a collaborator, feel f
 ## 📫 Get in Touch
 - **Website:** [My page](https://lykcc.com)
 - **LinkedIn:** [Ryan Meng](https://www.linkedin.com/in/ryan-meng-1120b6253/)
-- **Email:**  ryanm.academic@gmail.com
+- **Email:**  yk@lykcc.com
 
 ## 🌱 Currently Learning
 - Computational Finance and Risk Models
