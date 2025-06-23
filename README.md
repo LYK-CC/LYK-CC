@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm an Computer Science student at University of California, Berkeley, passionate about bridging theory and real-world application.
+I'm an Computer Science student at University of Washington, passionate about bridging theory and real-world application.
 
 I enjoy applying math concepts, data science, and algorithms into solving reallife practical challenges.
 
