@@ -13,18 +13,11 @@ If you're working on something interesting or looking for a collaborator, feel f
 
 ## 📫 Get in Touch
 - **Website:** [My page](https://www.lykcc.com)
-- **LinkedIn:** [Ryan Meng](https://www.linkedin.com/in/ryan-meng-1120b6253/)
 - **Email:**  yk@lykcc.com
 
 ## 🌱 Currently Learning
 - Computational Finance and Risk Models
 - Cryptography
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LYK-CC&show_icons=true&theme=radical)
-
-
-
 
 
 
