@@ -1,6 +1,7 @@
 # Hi there! 👋
+yeah i vibe coded this as wel
 
-I'm an Computer Science student at University of Washington
+I'm a CS + MATH student at University of Washington
 
 I enjoy applying math concepts and algorithms into solving reallife practical challenges.
 
