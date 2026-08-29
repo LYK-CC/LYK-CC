@@ -19,6 +19,8 @@ If you're working on something interesting or looking for a collaborator, feel f
 ## 🌱 Currently Learning
 - Computational Finance and Risk Models
 - Cryptography
+- Optimization Problems
+
 
 
 
